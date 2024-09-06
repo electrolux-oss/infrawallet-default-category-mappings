@@ -1,0 +1,1 @@
+# infrawallet-default-category-mappings
