@@ -1,0 +1,398 @@
+{
+    "Analytics": {
+        "azure": [
+            "Event Hubs",
+            "Log Analytics"
+        ],
+        "aws": [
+            "Amazon Kinesis",
+            "Amazon Managed Streaming for Apache Kafka",
+            "Amazon OpenSearch Service",
+            "Amazon QuickSight",
+            "Amazon Redshift",
+            "AWS Glue"
+        ],
+        "gcp": [
+            "BigQuery",
+            "BigQuery Storage API",
+            "Cloud Composer",
+            "Cloud Data Fusion",
+            "Cloud Life Sciences",
+            "Data Catalog",
+            "Dataform",
+            "Dataplex",
+            "Dataflow",
+            "Dataproc",
+            "Dataproc Metastore",
+            "Datastream",
+            "Google Earth Engine",
+            "Looker (Google Cloud core)",
+            "Looker Studio",
+            "Looker Studio Pro",
+            "Cloud Pub/Sub"
+        ]
+    },
+    "Application Integration": {
+        "azure": [
+            "Logic Apps"
+        ],
+        "aws": [
+            "Amazon API Gateway",
+            "Amazon Simple Notification Service",
+            "Amazon Simple Queue Service",
+            "AWS Step Functions"
+        ],
+        "gcp": [
+            "Apigee",
+            "Apigee Edge",
+            "API Gateway",
+            "Application Integration",
+            "Cloud Endpoints",
+            "Integration Connectors"
+        ]
+    },
+    "Compute": {
+        "azure": [
+            "Virtual Machines",
+            "Azure App Service",
+            "Functions"
+        ],
+        "aws": [
+            "EC2 - Other",
+            "Amazon Elastic Compute Cloud - Compute",
+            "AWS Lambda"
+        ],
+        "gcp": [
+            "App Engine",
+            "Batch",
+            "Compute Engine",
+            "Google Cloud VMware Engine (GCVE)",
+            "VM Manager",
+            "Workload Manager",
+            "Cloud Run",
+            "Cloud Functions",
+            "Cloud Functions for Firebase",
+            "Cloud Scheduler",
+            "Cloud Tasks",
+            "Eventarc",
+            "Workflows"
+        ],
+        "mongoatlas": [
+            "Instance"
+        ]
+    },
+    "Containers": {
+        "azure": [
+            "Azure Container Apps",
+            "Container Registry"
+        ],
+        "aws": [
+            "Amazon Elastic Container Service for Kubernetes",
+            "Amazon Elastic Container Service",
+            "Amazon EC2 Container Registry (ECR)"
+        ],
+        "gcp": [
+            "Kubernetes Engine",
+            "Google Kubernetes Engine",
+            "GKE Enterprise",
+            "Config Sync",
+            "Policy Controller",
+            "Identity Service",
+            "GKE Enterprise Integration with Google Cloud Platform Services",
+            "GKE Enterprise Premium Software",
+            "Service Mesh",
+            "GKE Autopilot",
+            "Connect",
+            "GKE Hub"
+        ]
+    },
+    "Database": {
+        "azure": [
+            "Azure Cosmos DB",
+            "Azure Data Factory v2",
+            "Azure Database for MySQL",
+            "Redis Cache",
+            "SQL Database"
+        ],
+        "aws": [
+            "Amazon DynamoDB",
+            "Amazon ElastiCache",
+            "Amazon Neptune",
+            "Amazon Relational Database Service",
+            "Amazon Timestream",
+            "DynamoDB Accelerator (DAX)"
+        ],
+        "gcp": [
+            "AlloyDB",
+            "Cloud Bigtable",
+            "Datastore",
+            "Firestore",
+            "Memorystore",
+            "Cloud Memorystore for Redis",
+            "Cloud Spanner",
+            "Cloud SQL"
+        ]
+    },
+    "Developer Tools": {
+        "azure": [
+            "Azure DevOps",
+            "Notification Hubs",
+            "Visual Studio Subscription"
+        ],
+        "aws": [
+            "AWS CloudShell",
+            "AWS CodeArtifact",
+            "AWS X-Ray"
+        ],
+        "gcp": [
+            "Google Cloud App",
+            "Cloud Deployment Manager",
+            "Cloud Shell",
+            "Recommenders",
+            "Service Infrastructure"
+        ]
+    },
+    "DevOps": {
+        "azure": [
+            "Azure Monitor"
+        ]
+    },
+    "Internet of Things": {
+        "azure": [
+            "Event Grid",
+            "IoT Hub"
+        ],
+        "aws": [
+            "AWS IoT",
+            "AWS IoT Device Defender",
+            "AWS IoT Device Management"
+        ],
+        "gcp": [
+            "Iot Core"
+        ]
+    },
+    "Artificial Intelligence": {
+        "azure": [
+            "Azure Cognitive Search",
+            "Azure Databricks",
+            "Cognitive Services"
+        ],
+        "aws": [
+            "Amazon Kendra",
+            "Amazon SageMaker",
+            "Amazon Bedrock"
+        ],
+        "gcp": [
+            "Agent Assist",
+            "Anti Money Laundering AI (AML AI)",
+            "Contact Center AI (CCAI)",
+            "Contact Center AI Insights",
+            "Contact Center AI (CCAI) Platform",
+            "Dialogflow Essentials",
+            "Dialogflow Customer Experience Edition",
+            "Cloud Dialogflow API",
+            "Document AI",
+            "Document Workbench",
+            "Human-in-the-Loop AI",
+            "Document AI Warehouse",
+            "Talent Solution",
+            "Translation Hub",
+            "Vertex AI Search for Industry",
+            "Vertex AI Search for Retail",
+            "Recommendations AI",
+            "Recommendation Engine API",
+            "Retail Search",
+            "Cloud Natural Language API",
+            "Cloud Translation API",
+            "Cloud Vision",
+            "Cloud Vision",
+            "Media Translation API",
+            "Speaker ID",
+            "Speech On Device",
+            "Speech-to-Text",
+            "Cloud Text-to-Speech API",
+            "Timeseries Insights API",
+            "Video Intelligence API",
+            "Visual Inspection AI",
+            "AI Platform Data Labeling",
+            "AI Platform Training and Prediction",
+            "AutoML",
+            "Vertex AI Platform",
+            "Vertex AI Neural Architecture Search (NAS)",
+            "Vertex AI Vision",
+            "Gemini for Google Cloud",
+            "Vertex AI API",
+            "Vertex AI Conversation",
+            "Vertex AI Model Garden",
+            "Vertex AI Search",
+            "Vertex AI Studio",
+            "Vertex AI"
+        ]
+    },
+    "Management & Governance": {
+        "azure": [
+            "Network Watcher"
+        ],
+        "aws": [
+            "AmazonCloudWatch",
+            "CloudWatch Events",
+            "AWS CloudFormation",
+            "AWS CloudTrail",
+            "AWS Config",
+            "AWS Service Catalog",
+            "AWS Systems Manager"
+        ]
+    },
+    "Networking": {
+        "azure": [
+            "Azure DNS",
+            "Azure Front Door Service",
+            "Bandwidth",
+            "Content Delivery Network",
+            "Load Balancer",
+            "NAT Gateway",
+            "Network Traversal",
+            "Service Bus",
+            "Traffic Manager",
+            "Virtual Network",
+            "VPN Gateway"
+        ],
+        "aws": [
+            "Amazon Elastic Load Balancing",
+            "Amazon Route 53",
+            "Amazon Virtual Private Cloud",
+            "AWS Global Accelerator"
+        ],
+        "gcp": [
+            "Networking",
+            "Cloud CDN",
+            "Cloud DNS",
+            "Cloud IDS (Cloud Intrusion Detection System)",
+            "Cloud Interconnect",
+            "Cloud Load Balancing",
+            "Cloud NAT (Network Address Translation)",
+            "Cloud NGFW",
+            "Cloud NGFW Enterprise",
+            "Cloud Router",
+            "Cloud VPN",
+            "Google Cloud Armor",
+            "Google Cloud Armor Enterprise",
+            "Media CDN",
+            "Network Connectivity Center",
+            "Network Intelligence Center",
+            "Network Service Tiers",
+            "Secure Web Proxy (SWP)",
+            "Service Directory",
+            "Spectrum Access System",
+            "Telecom Network Automation",
+            "Traffic Director",
+            "Virtual Private Cloud"
+        ],
+        "mongoatlas": [
+            "Data Transfer"
+        ]
+    },
+    "Security, Identity, & Compliance": {
+        "azure": [
+            "Azure Firewall",
+            "Key Vault",
+            "Microsoft Defender for Cloud"
+        ],
+        "aws": [
+            "Amazon Cognito",
+            "Amazon GuardDuty",
+            "Amazon Inspector",
+            "Amazon Verified Permissions",
+            "AWS Certificate Manager",
+            "AWS Key Management Service",
+            "AWS Secrets Manager",
+            "AWS Security Hub",
+            "AWS WAF"
+        ],
+        "gcp": [
+            "Access Transparency",
+            "Assured Workloads",
+            "Binary Authorization",
+            "Certificate Authority Service",
+            "Certificate Manager",
+            "Cloud Asset Inventory",
+            "Cloud External Key Manager",
+            "Cloud EKM",
+            "Cloud HSM",
+            "Cloud Key Management Service (KMS)",
+            "Event Threat Detection",
+            "Key Access Justifications (KAJ)",
+            "Risk Manager",
+            "Security Command Center",
+            "Sensitive Data Protection",
+            "VPC Service Controls",
+            "Secret Manager",
+            "Web Security Scanner",
+            "Access Approval",
+            "Access Context Manager",
+            "Chrome Enterprise Premium",
+            "Cloud Identity Services",
+            "Firebase App Check",
+            "Firebase Authentication",
+            "Google Cloud Identity-Aware Proxy",
+            "Identity & Access Management (IAM)",
+            "Identity Platform",
+            "Managed Service for Microsoft Active Directory (AD)",
+            "Organization Policy",
+            "Resource Manager API"
+        ]
+    },
+    "Storage": {
+        "azure": [
+            "Storage"
+        ],
+        "aws": [
+            "Amazon Elastic File System",
+            "Amazon Glacier",
+            "Amazon Simple Storage Service"
+        ],
+        "gcp": [
+            "Backup for GKE",
+            "Cloud Storage",
+            "Persistent Disk",
+            "Cloud Filestore",
+            "Cloud Storage for Firebase",
+            "NetApp Volumes"
+        ],
+        "mongoatlas": [
+            "Atlas Cloud Backup Storage",
+            "Atlas Storage"
+        ]
+    },
+    "Front-End Web & Mobile": {
+        "azure": [
+            "Azure Maps"
+        ],
+        "aws": [
+            "Amazon Location Service",
+            "Amazon Simple Email Service",
+            "AWS Device Farm"
+        ]
+    },
+    "Cloud Financial Management": {
+        "aws": [
+            "AWS Cost Explorer"
+        ]
+    },
+    "Migration": {
+        "aws": [
+            "AWS Database Migration Service",
+            "AWS Migration Hub Refactor Spaces"
+        ]
+    },
+    "Operations": {
+        "gcp": [
+            "Cloud Logging",
+            "Cloud Error Reporting",
+            "Cloud Monitoring",
+            "Cloud Profiler",
+            "Cloud Trace",
+            "Google Cloud Backup and DR"
+        ]
+    }
+}
