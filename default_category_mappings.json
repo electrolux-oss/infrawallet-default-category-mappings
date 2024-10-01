@@ -290,6 +290,9 @@
         ],
         "mongoatlas": [
             "Data Transfer"
+        ],
+        "confluent": [
+            "Kafka Network"
         ]
     },
     "Security, Identity, & Compliance": {
@@ -362,6 +365,9 @@
         "mongoatlas": [
             "Atlas Cloud Backup Storage",
             "Atlas Storage"
+        ],
+        "confluent": [
+            "Kafka Storage"
         ]
     },
     "Front-End Web & Mobile": {
@@ -393,6 +399,11 @@
             "Cloud Profiler",
             "Cloud Trace",
             "Google Cloud Backup and DR"
+        ]
+    },
+    "Integration": {
+        "confluent": [
+            "Kafka Base"
         ]
     }
 }
